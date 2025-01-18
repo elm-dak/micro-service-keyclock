@@ -12,9 +12,11 @@ Ce projet intègre **Kyecklock**, une bibliothèque de verrouillage distribué, 
 ## Prérequis
 
 - **Java 17+**
-- **Spring Boot **
-- **Maven **
+- **Spring Boot +**
+- **Maven +**
 - **Bibliothèque Kyecklock**
+- **Redis (pour le stockage des verrous distribués)**
+- **Docker** (pour utiliser Keycloak)
 
 
 ## Screenshots
